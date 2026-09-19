@@ -1,0 +1,313 @@
+---
+title: "Chronologie"
+date: 2026-09-19
+description: "Soixante ans de concepts, de crimes, de jugements et de mobilisations : la fabrique du nécropatriarcat et de sa critique, de Foucault à 2026."
+keywords: ["chronologie", "nécropatriarcat", "féminicide", "histoire des concepts"]
+events:
+  - annee: "1969"
+    iso: "1969"
+    titre: "Johan Galtung définit la violence structurelle"
+    texte: "L'écart entre le potentiel et le réel : une violence sans auteur, inscrite dans l'organisation sociale."
+    tags: ["concept"]
+    link: "/notions/violence-structurelle/"
+  - annee: "1976"
+    iso: "1976"
+    titre: "Foucault formule la biopolitique"
+    texte: "Dans La volonté de savoir, le pouvoir moderne est décrit comme celui qui « fait vivre et laisse mourir »."
+    tags: ["concept"]
+    link: "/notions/biopolitique/"
+  - annee: "1976"
+    iso: "1976"
+    titre: "Diana Russell propose le mot femicide"
+    texte: "Devant le Tribunal international des crimes contre les femmes, à Bruxelles."
+    tags: ["concept"]
+    link: "/notions/feminicide/"
+  - annee: "1993"
+    iso: "1993"
+    titre: "Premiers féminicides recensés à Ciudad Juárez"
+    texte: "Le début d'une série documentée par les organisations de familles avant de l'être par l'État."
+    tags: ["cas", "Mexique"]
+    link: "/cas/ciudad-juarez/"
+  - annee: "1996"
+    iso: "1996"
+    titre: "Fin du conflit armé au Guatemala"
+    texte: "Environ 200 000 morts et disparus, plus de 80 % de victimes mayas ; violence sexuelle systématique établie par la Commission de clarification historique."
+    tags: ["cas", "Guatemala"]
+    link: "/cas/guatemala-guerre/"
+  - annee: "1997"
+    iso: "1997"
+    titre: "Agamben, Homo sacer (trad. française)"
+    texte: "La vie nue : une existence incluse dans l'ordre juridique par son exclusion même."
+    tags: ["concept"]
+    link: "/notions/vie-nue/"
+  - annee: "2001"
+    iso: "2001-11-06"
+    titre: "Découverte des corps du Campo Algodonero"
+    texte: "Huit femmes retrouvées dans un champ de coton de Ciudad Juárez, dont les trois requérantes de la future affaire devant la Cour interaméricaine."
+    tags: ["cas", "Mexique"]
+    link: "/cas/campo-algodonero/"
+  - annee: "2003"
+    iso: "2003"
+    titre: "Mbembe publie « Necropolitics »"
+    texte: "Le pouvoir de dicter qui peut vivre et qui doit mourir ; les mondes de mort."
+    tags: ["concept"]
+    link: "/notions/necropolitique/"
+  - annee: "2003"
+    iso: "2003"
+    titre: "Segato, Las estructuras elementales de la violencia"
+    texte: "La violence sexuelle comme structure de communication entre hommes."
+    tags: ["concept"]
+    link: "/figures/rita-segato/"
+  - annee: "2004"
+    iso: "2004"
+    titre: "Federici, Caliban et la sorcière"
+    texte: "L'accumulation primitive du capital a exigé une guerre contre les femmes."
+    tags: ["concept"]
+    link: "/figures/silvia-federici/"
+  - annee: "2004"
+    iso: "2004"
+    titre: "Butler, Vie précaire"
+    texte: "La répartition inégale de la pleurabilité précède celle de la protection."
+    tags: ["concept"]
+    link: "/notions/grievabilite/"
+  - annee: "2006"
+    iso: "2006"
+    titre: "Militarisation de la « guerre contre la drogue » au Mexique"
+    texte: "Le déploiement fédéral transforme la géographie de la violence sans réduire les flux."
+    tags: ["cas", "Mexique"]
+  - annee: "2006"
+    iso: "2006"
+    titre: "Falquet, « Hommes en armes et femmes de service »"
+    texte: "La division sexuelle et internationale du travail sous le néolibéralisme."
+    tags: ["concept"]
+    link: "/notions/pax-neoliberalia/"
+  - annee: "2007"
+    iso: "2007"
+    titre: "Fricker publie Epistemic Injustice"
+    texte: "Injustice testimoniale et injustice herméneutique : le tort fait au sujet de connaissance."
+    tags: ["concept"]
+    link: "/notions/injustice-epistemique/"
+  - annee: "2007"
+    iso: "2007"
+    titre: "Berlant, « Slow Death »"
+    texte: "L'usure comme condition ordinaire d'existence, et l'agentivité latérale."
+    tags: ["concept"]
+    link: "/notions/mort-lente/"
+  - annee: "2007"
+    iso: "2007"
+    titre: "Puar, Terrorist Assemblages"
+    texte: "L'homonationalisme : intégrer quelques-uns pour désigner les autres."
+    tags: ["concept"]
+    link: "/notions/homonationalisme/"
+  - annee: "2009"
+    iso: "2009-06-29"
+    titre: "Meurtre de Vicky Hernández au Honduras"
+    texte: "La nuit du coup d'État, sous couvre-feu. L'affaire aboutira douze ans plus tard."
+    tags: ["cas", "Honduras"]
+    link: "/cas/vicky-hernandez-honduras/"
+  - annee: "2009"
+    iso: "2009-11-16"
+    titre: "Arrêt Campo Algodonero"
+    texte: "La Cour interaméricaine condamne le Mexique pour manquement à la diligence raisonnable et reconnaît le féminicide comme crime de haine."
+    tags: ["droit"]
+    link: "/cas/campo-algodonero/"
+  - annee: "2009"
+    iso: "2009"
+    titre: "Lancement du Trans Murder Monitoring"
+    texte: "TGEU commence le recensement mondial des meurtres de personnes trans ; plus de 5 300 cas documentés depuis."
+    tags: ["données"]
+    link: "/cas/brasil-transfeminicides/"
+  - annee: "2010"
+    iso: "2010"
+    titre: "Valencia publie Capitalismo gore"
+    texte: "La privatisation de la nécropolitique : le corps devient la marchandise."
+    tags: ["concept"]
+    link: "/notions/capitalisme-gore/"
+  - annee: "2011"
+    iso: "2011"
+    titre: "Nixon, Slow Violence"
+    texte: "Une violence trop lente pour faire événement, et donc pour être reconnue."
+    tags: ["concept"]
+    link: "/notions/violence-lente/"
+  - annee: "2013"
+    iso: "2013"
+    titre: "Segato, La escritura en el cuerpo de las mujeres asesinadas en Ciudad Juárez"
+    texte: "Le corps des victimes comme surface d'écriture adressée aux autres hommes."
+    tags: ["concept"]
+    link: "/dossiers/feminicide-langage/"
+  - annee: "2014"
+    iso: "2014-10-11"
+    titre: "Meurtre de Jennifer Laude aux Philippines"
+    texte: "La défense invoque la « trans panic » ; le meurtrier sera gracié en 2020."
+    tags: ["cas", "Philippines"]
+    link: "/cas/jennifer-laude/"
+  - annee: "2014"
+    iso: "2014"
+    titre: "Queer Necropolitics (Haritaworn, Kuntsman, Posocco)"
+    texte: "La production simultanée de vies queer protégeables et de vies queer jetables."
+    tags: ["concept"]
+    link: "/notions/homonationalisme/"
+  - annee: "2015"
+    iso: "2015-06-03"
+    titre: "Première marche Ni Una Menos"
+    texte: "Buenos Aires. Le mot d'ordre vient d'un vers de Susana Chávez, assassinée à Juárez en 2011."
+    tags: ["mobilisation", "Argentine"]
+    link: "/cas/ni-una-menos/"
+  - annee: "2015"
+    iso: "2015-10-11"
+    titre: "Assassinat de Diana Sacayán"
+    texte: "Le procès aboutira en 2018 au premier jugement retenant la qualification de travesticidio."
+    tags: ["cas", "Argentine"]
+    link: "/figures/diana-sacayan/"
+  - annee: "2016"
+    iso: "2016-03-02"
+    titre: "Assassinat de Berta Cáceres"
+    texte: "Onze mois après le prix Goldman obtenu pour la campagne contre le barrage d'Agua Zarca."
+    tags: ["cas", "Honduras"]
+    link: "/cas/berta-caceres-agua-zarca/"
+  - annee: "2016"
+    iso: "2016-02"
+    titre: "Jugement de Sepur Zarco au Guatemala"
+    texte: "Premier jugement au monde, devant une juridiction nationale, reconnaissant l'esclavage sexuel comme méthode de guerre."
+    tags: ["droit", "Guatemala"]
+    link: "/cas/guatemala-guerre/"
+  - annee: "2016"
+    iso: "2016"
+    titre: "Falquet, Pax Neoliberalia"
+    texte: "Le néolibéralisme comme réorganisation, et non pacification, de la violence."
+    tags: ["concept"]
+    link: "/notions/pax-neoliberalia/"
+  - annee: "2016"
+    iso: "2016"
+    titre: "Segato, La guerra contra las mujeres"
+    texte: "Les guerres contemporaines se livrent sur les corps des femmes."
+    tags: ["concept"]
+    link: "/figures/rita-segato/"
+  - annee: "2017"
+    iso: "2017"
+    titre: "Puar, The Right to Maim"
+    texte: "Le droit de mutiler : ne pas laisser mourir, ne pas faire mourir."
+    tags: ["concept"]
+    link: "/notions/debilitation/"
+  - annee: "2017"
+    iso: "2017"
+    titre: "Cobo, La prostitución en el corazón del capitalismo"
+    texte: "L'industrie sexuelle comme pièce centrale et non comme marge."
+    tags: ["concept"]
+    link: "/figures/rosa-cobo/"
+  - annee: "2018"
+    iso: "2018-03-14"
+    titre: "Assassinat de Marielle Franco"
+    texte: "Rio de Janeiro. Elle documentait l'emprise des milices composées d'anciens agents de l'État."
+    tags: ["cas", "Brésil"]
+    link: "/cas/marielle-franco/"
+  - annee: "2018"
+    iso: "2018"
+    titre: "Segato, Contra-pedagogías de la crueldad"
+    texte: "Le programme en quatre axes contre l'apprentissage de l'insensibilité."
+    tags: ["concept"]
+    link: "/notions/contre-pedagogie/"
+  - annee: "2018"
+    iso: "2018-12"
+    titre: "Début de la Grande Marche du Retour (analyse de Puar)"
+    texte: "Le ciblage des membres inférieurs devient le terrain empirique du droit de mutiler."
+    tags: ["cas"]
+    link: "/cas/gaza-droit-de-mutiler/"
+  - annee: "2019"
+    iso: "2019"
+    titre: "Valencia théorise le nécropatriarcat"
+    texte: "Dans TSQ : le privilège masculin d'exercer les techniques de la nécropolitique ; politiques post-mortem et trans-mortem."
+    tags: ["concept"]
+    link: "/dossiers/necropatriarcat-definition/"
+  - annee: "2019"
+    iso: "2019"
+    titre: "Vergès, Un féminisme décolonial"
+    texte: "L'émancipation des unes subventionnée par l'exploitation des autres."
+    tags: ["concept"]
+    link: "/notions/feminisme-decolonial/"
+  - annee: "2019"
+    iso: "2019"
+    titre: "Gago, La potencia feminista"
+    texte: "Grève féministe, dette et violence : la théorisation de Ni Una Menos."
+    tags: ["concept"]
+    link: "/figures/veronica-gago/"
+  - annee: "2019"
+    iso: "2019"
+    titre: "Le Brésil criminalise la transphobie"
+    texte: "La protection formelle n'inverse pas le classement mondial des meurtres de personnes trans."
+    tags: ["droit", "Brésil"]
+    link: "/cas/brasil-transfeminicides/"
+  - annee: "2020"
+    iso: "2020-12-30"
+    titre: "Légalisation de l'avortement en Argentine"
+    texte: "Produit direct de la marea verde issue de Ni Una Menos ; suivie par la Colombie (2022) et le Mexique (2023)."
+    tags: ["droit", "Argentine"]
+    link: "/cas/ni-una-menos/"
+  - annee: "2021"
+    iso: "2021-03-26"
+    titre: "Arrêt Vicky Hernández c. Honduras"
+    texte: "Premier arrêt international déclarant un État responsable du meurtre d'une femme trans."
+    tags: ["droit", "Honduras"]
+    link: "/cas/vicky-hernandez-honduras/"
+  - annee: "2023"
+    iso: "2023-07-13"
+    titre: "Loi belge « Stop féminicide »"
+    texte: "Première loi-cadre européenne : quatre qualifications de féminicide et définition du contrôle coercitif."
+    tags: ["droit", "Belgique"]
+    link: "/cas/loi-stop-feminicide-belgique/"
+  - annee: "2024"
+    iso: "2024-03"
+    titre: "Première application judiciaire du contrôle coercitif en Belgique"
+    texte: "Une juge retire un droit d'hébergement à un père violent sur ce fondement."
+    tags: ["droit", "Belgique"]
+    link: "/notions/controle-coercitif/"
+  - annee: "2024"
+    iso: "2024-05-14"
+    titre: "Directive (UE) 2024/1385"
+    texte: "Normes minimales européennes contre la violence faite aux femmes ; transposition attendue d'ici juin 2027."
+    tags: ["droit", "Europe"]
+    link: "/cas/loi-stop-feminicide-belgique/"
+  - annee: "2024"
+    iso: "2024"
+    titre: "Fragnito soutient The Necropolitics of Care"
+    texte: "La récupération du mot « soin » et les pratiques d'insubordination qui y répondent."
+    tags: ["concept"]
+    link: "/figures/maddalena-fragnito/"
+  - annee: "2025"
+    iso: "2025-11-24"
+    titre: "CEPAL : 19 254 féminicides en cinq ans"
+    texte: "Au moins 3 828 pour la seule année 2024 dans 26 pays, soit environ onze par jour."
+    tags: ["données"]
+    link: "/notions/feminicide/"
+  - annee: "2025"
+    iso: "2025-11"
+    titre: "TGEU : ciblage des militantes"
+    texte: "281 meurtres recensés sur un an ; la part des militantes passe de 6 % (2023) à 14 % (2025)."
+    tags: ["données"]
+    link: "/cas/brasil-transfeminicides/"
+  - annee: "2025"
+    iso: "2025-12-09"
+    titre: "Création du Comité scientifique belge des féminicides"
+    texte: "Sans les associations qui recensent les cas depuis 2017."
+    tags: ["droit", "Belgique"]
+    link: "/cas/loi-stop-feminicide-belgique/"
+  - annee: "2026"
+    iso: "2026-03"
+    titre: "Valencia : « du capitalisme gore au nécropatriarcat »"
+    texte: "Entretien où elle décrit la nécromasculinité des dirigeants autoritaires et le régime livestream."
+    tags: ["concept"]
+    link: "/notions/necromasculinite/"
+  - annee: "2026"
+    iso: "2026-05-20"
+    titre: "« Les écrans comme nouvelles pédagogies de l'autoritarisme »"
+    texte: "Conversation transféministe avec Sayak Valencia : gentrification émotionnelle et gamification."
+    tags: ["concept"]
+    link: "/notions/regime-livestream/"
+refs:
+  - text: "Les sources de chaque entrée figurent sur la page correspondante."
+---
+
+Cette chronologie mêle délibérément trois séries : la **fabrique des concepts**, les **faits** qui les ont provoqués, et les **décisions juridiques** qui en ont tiré les conséquences. Les trois s'appellent : un crime produit une enquête, une enquête produit un concept, un concept rend un jugement possible, un jugement change ce qui peut être dit du crime suivant.
+
+Les entrées marquées *données* signalent des recensements — souvent produits par des associations avant de l'être par des institutions.
+
