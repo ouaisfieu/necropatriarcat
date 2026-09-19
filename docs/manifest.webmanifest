@@ -1,0 +1,18 @@
+{
+ "name": "Nécropatriarcat — atlas critique",
+ "short_name": "Nécropatriarcat",
+ "description": "Encyclopédie critique du nécropatriarcat : généalogie du concept (Mbembe, Valencia, Segato), mécanismes du capitalisme gore, pédagogie de la cruauté, féminicides et transféminicides, débilitation, vio",
+ "start_url": "/necropatriarcat/",
+ "scope": "/necropatriarcat/",
+ "display": "minimal-ui",
+ "background_color": "#faf8f5",
+ "theme_color": "#111015",
+ "lang": "fr",
+ "icons": [
+  {
+   "src": "/necropatriarcat/assets/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

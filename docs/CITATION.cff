@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Nécropatriarcat — atlas critique d'une économie de la mort"
+message: "Si vous utilisez ce travail, merci de le citer comme suit."
+type: dataset
+abstract: >-
+  Encyclopédie critique en ligne consacrée au nécropatriarcat : généalogie du
+  concept (Mbembe, Valencia, Segato), mécanismes du capitalisme gore, pédagogie
+  de la cruauté, féminicides et transféminicides, débilitation, violence lente,
+  injustice épistémique, contre-pédagogies et politiques post-mortem.
+authors:
+  - name: "Claude (Opus 5)"
+    alias: "modèle de langage, Anthropic"
+  - name: "ouaisfieu"
+    alias: "édition"
+repository-code: "https://github.com/ouaisfieu/necropatriarcat"
+url: "https://ouaisfieu.github.io/necropatriarcat/"
+license: CC-BY-SA-4.0
+date-released: "2026-09-19"
+version: "1.0.0"
+keywords:
+  - nécropatriarcat
+  - nécropolitique
+  - capitalisme gore
+  - féminicide
+  - transféminicide
+  - pédagogie de la cruauté
+  - transféminisme
+  - féminisme décolonial
+  - injustice épistémique

@@ -1,0 +1,1723 @@
+{
+ "@context": {
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "dct": "http://purl.org/dc/terms/",
+  "foaf": "http://xmlns.com/foaf/0.1/"
+ },
+ "@graph": [
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme",
+   "@type": "skos:ConceptScheme",
+   "dct:title": {
+    "@language": "fr",
+    "@value": "Vocabulaire critique du nécropatriarcat"
+   },
+   "dct:description": {
+    "@language": "fr",
+    "@value": "Thésaurus des notions mobilisées par l'analyse nécropatriarcale."
+   },
+   "dct:license": "https://creativecommons.org/licenses/by-sa/4.0/deed.fr",
+   "dct:creator": "Claude (Opus 5)",
+   "dct:publisher": "ouaisfieu",
+   "dct:modified": "2026-09-19",
+   "skos:hasTopConcept": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Abandon policé"
+    },
+    {
+     "@language": "en",
+     "@value": "Policed abandonment"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Mode de gouvernance combinant une surveillance et une répression accrues avec une exemption du devoir de protection : les personnes visées sont hyper-contrôlées et simultanément privées de recours."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/vie-nue/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-carceral/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/biopolitique/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Biopolitique"
+    },
+    {
+     "@language": "en",
+     "@value": "Biopolitics"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Rationalité de gouvernement qui s'exerce sur la population comme corps biologique : « faire vivre et laisser mourir », par la santé publique, la démographie, la norme et la discipline."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/biopolitique/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/debilitation/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-structurelle/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q890188"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/buchona/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Buchona"
+    },
+    {
+     "@language": "en",
+     "@value": "Buchona"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Compagne ou aspirante compagne du narcotrafiquant dans le nord-ouest du Mexique, dont le corps chirurgicalement refait fonctionne comme démonstration publique de la capacité de dépense de l'homme."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/buchona/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/sujet-endriago/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Capitalisme gore"
+    },
+    {
+     "@language": "en",
+     "@value": "Gore capitalism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Régime économique dans lequel l'étape de la production est supprimée : le corps humain — séquestré, mutilé, démembré, tué — devient directement la marchandise et la source de profit."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "capitalismo gore"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/sujet-endriago/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-empowerment/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Capitalisme racial"
+    },
+    {
+     "@language": "en",
+     "@value": "Racial capitalism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Thèse selon laquelle le capitalisme ne s'est pas développé puis racialisé : il s'est constitué par la racialisation, l'esclavage et la colonisation, qui en sont des conditions et non des accidents."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/extractivisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-structurelle/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q7278649"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Contre-pédagogie de la cruauté"
+    },
+    {
+     "@language": "en",
+     "@value": "Counter-pedagogy of cruelty"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Programme en quatre axes visant à défaire l'apprentissage de l'insensibilité : contre-pédagogie du pouvoir, politisation de l'expérience des femmes, reconnaissance de la victimisation des hommes, primat du projet des liens sur le projet des choses."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "contra-pedagogía de la crueldad"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/politiques-post-mortem/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminisme/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/controle-coercitif/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Contrôle coercitif"
+    },
+    {
+     "@language": "en",
+     "@value": "Coercive control"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Ensemble de comportements coercitifs ou de contrôle, continus ou répétés, causant un dommage psychique : isolement, surveillance, régulation des actes quotidiens, humiliation, privation de ressources."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/controle-coercitif/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Corps pour le capital"
+    },
+    {
+     "@language": "en",
+     "@value": "Bodies for capital"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Statut commun de corps dont la valeur dépend entièrement de leur conformité à une grammaire économique et visuelle qu'ils n'ont pas écrite : ouvrière, victime, compagne parée."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "cuerpos para el capital"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/buchona/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/cuerpo-territorio/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Corps-territoire"
+    },
+    {
+     "@language": "en",
+     "@value": "Body-territory"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Notion selon laquelle le corps est le premier territoire et le territoire un prolongement du corps : les atteintes à l'un et à l'autre relèvent d'une même logique d'extraction."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/cuerpo-territorio/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "cuerpo-territorio"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/extractivisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/ecofeminisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/debilitation/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Débilitation"
+    },
+    {
+     "@language": "en",
+     "@value": "Debility"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Production délibérée de corps affaiblis, blessés ou chroniquement diminués, selon un vecteur qui n'est ni « faire mourir » ni « laisser vivre » mais « ne pas laisser mourir / ne pas faire mourir »."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/debilitation/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/biopolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/homonationalisme/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/diligence-raisonnable/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Diligence raisonnable renforcée"
+    },
+    {
+     "@language": "en",
+     "@value": "Enhanced due diligence"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Obligation pour un État, lorsqu'il connaît l'existence d'un schéma systématique de violence de genre, de prévenir, enquêter et sanctionner — son inaction engageant sa responsabilité internationale."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/diligence-raisonnable/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "debida diligencia reforzada"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-carceral/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/ecofeminisme/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Écoféminisme"
+    },
+    {
+     "@language": "en",
+     "@value": "Ecofeminism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Courant qui relie la domination des femmes et l'exploitation de la nature ; dans sa version décoloniale et communautaire, il en fait un constat matériel plutôt qu'une affinité essentielle."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/ecofeminisme/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/extractivisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q1229886"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/extractivisme/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Extractivisme"
+    },
+    {
+     "@language": "en",
+     "@value": "Extractivism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Modèle de développement fondé sur l'extraction intensive de ressources naturelles destinées à l'exportation, qui traite le territoire comme un objet inerte et inépuisable."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/extractivisme/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/ecofeminisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q5422084"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Féminicide"
+    },
+    {
+     "@language": "en",
+     "@value": "Femicide / feminicide"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Meurtre d'une femme en raison de son genre. Dans l'acception forgée par Marcela Lagarde, le terme inclut l'impunité et la responsabilité de l'État qui laisse ces meurtres se produire et ne les poursuit pas."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "feminicidio"
+    },
+    {
+     "@language": "fr",
+     "@value": "femicide"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/controle-coercitif/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q1361072"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-carceral/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Féminisme carcéral"
+    },
+    {
+     "@language": "en",
+     "@value": "Carceral feminism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Courant qui confie à l'appareil pénal et policier la réponse aux violences de genre, au risque de renforcer des institutions qui frappent par ailleurs les populations les plus exposées."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-carceral/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Féminisme décolonial"
+    },
+    {
+     "@language": "en",
+     "@value": "Decolonial feminism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Courant qui analyse le genre comme une catégorie produite par la colonisation, et refuse un féminisme qui obtiendrait des droits pour certaines femmes au prix de l'exploitation des autres."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-carceral/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/fratria-masculina/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Fratrie masculine"
+    },
+    {
+     "@language": "en",
+     "@value": "Masculine fratria"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Corporation des pairs masculins devant laquelle la virilité doit être prouvée, qui exige une loyauté absolue et sanctionne l'empathie comme une trahison."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/fratria-masculina/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "fratria masculina"
+    },
+    {
+     "@language": "fr",
+     "@value": "pacte corporatif"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/regime-livestream/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/grievabilite/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Pleurabilité"
+    },
+    {
+     "@language": "en",
+     "@value": "Grievability"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Qualité reconnue à une vie d'être digne d'être pleurée. Une vie non pleurable est une vie dont la perte ne produit ni deuil public, ni scandale, ni obligation."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/grievabilite/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "grievabilité"
+    },
+    {
+     "@language": "fr",
+     "@value": "vies pleurables"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/politiques-post-mortem/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/homonationalisme/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Homonationalisme"
+    },
+    {
+     "@language": "en",
+     "@value": "Homonationalism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Mécanisme par lequel les États libéraux intègrent certains sujets gays et lesbiens conformes dans la sphère de la vie protégeable, tout en désignant d'autres corps — racisés, migrants, trans — comme des menaces."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/homonationalisme/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/debilitation/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q3134676"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Injustice épistémique"
+    },
+    {
+     "@language": "en",
+     "@value": "Epistemic injustice"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Tort fait à une personne spécifiquement en sa qualité de sujet de connaissance : déflation du crédit accordé à sa parole, ou absence des ressources conceptuelles permettant de comprendre son expérience."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-hermeneutique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-structurelle/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q5384215"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-hermeneutique/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Injustice herméneutique"
+    },
+    {
+     "@language": "en",
+     "@value": "Hermeneutical injustice"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Situation dans laquelle une expérience sociale significative reste inintelligible, à la victime comme à la société, parce que les ressources interprétatives collectives permettant de la nommer n'existent pas."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-hermeneutique/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/controle-coercitif/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Mandat de masculinité"
+    },
+    {
+     "@language": "en",
+     "@value": "Mandate of masculinity"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Injonction structurelle faite aux hommes de prouver en permanence, devant leurs pairs, leur puissance et leur capacité de domination, sous peine de perdre leur légitimité sociale."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "mandato de masculinidad"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/fratria-masculina/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Micro-souverain"
+    },
+    {
+     "@language": "en",
+     "@value": "Microsovereign"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Homme institué par l'ordre patriarcal comme souverain sur un périmètre restreint — foyer, atelier, quartier, guichet — et disposant, dans ce périmètre, du droit de contraindre, de mutiler et de faire mourir."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/controle-coercitif/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necromasculinite/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Monde de mort"
+    },
+    {
+     "@language": "en",
+     "@value": "Death-world"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Forme nouvelle d'existence sociale dans laquelle de vastes populations sont soumises à des conditions de vie leur conférant le statut de morts-vivants."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "death-world"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/vie-nue/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mort-lente/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Mort lente"
+    },
+    {
+     "@language": "en",
+     "@value": "Slow death"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Usure physique et psychique d'une population, non comme accident mais comme condition ordinaire de son existence historique sous le capitalisme contemporain."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/mort-lente/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/debilitation/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-ecriture/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Nécro-écriture"
+    },
+    {
+     "@language": "en",
+     "@value": "Necro-writing"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Pratiques littéraires qui, par des formes narratives inconfortables, polyphoniques et brutales, arrachent le lecteur à la position de voyeur et restituent la complexité des vies broyées."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-ecriture/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-hermeneutique/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-empowerment/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Nécro-empouvoirement"
+    },
+    {
+     "@language": "en",
+     "@value": "Necroempowerment"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Transformation d'un état de vulnérabilité en position de pouvoir par des moyens dystopiques : l'exercice de l'hyperviolence comme voie d'accès au capital, au statut et à la reconnaissance."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-empowerment/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "necroempoderamiento"
+    },
+    {
+     "@language": "fr",
+     "@value": "nécro-empowerment"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/sujet-endriago/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necromasculinite/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Nécromasculinité"
+    },
+    {
+     "@language": "en",
+     "@value": "Necromasculinity"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Modèle de masculinité politique qui fait de la capacité de destruction — militaire, budgétaire, migratoire, rhétorique — la preuve principale de compétence à gouverner."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/necromasculinite/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/regime-livestream/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Nécropatriarcat"
+    },
+    {
+     "@language": "en",
+     "@value": "Necropatriarchy"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Organisation sociale et économique dans laquelle le système patriarcal accorde au corps masculin individuel le privilège d'exercer, pour son propre compte, les techniques de la violence nécropolitique."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "necropatriarcado"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necromasculinite/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Nécropolitique"
+    },
+    {
+     "@language": "en",
+     "@value": "Necropolitics"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Exercice du pouvoir comme capacité à dicter qui peut vivre et qui doit mourir, par le déploiement de technologies de destruction plutôt que par l'administration de la vie."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/biopolitique/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/biopolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/vie-nue/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropatriarcat/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q17147825"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/organized-abandonment/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Abandon organisé"
+    },
+    {
+     "@language": "en",
+     "@value": "Organized abandonment"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Retrait délibéré des infrastructures, des services publics et de la protection de certains territoires et de certaines populations, produisant des vulnérabilités différenciées à la mort prématurée."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/organized-abandonment/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-structurelle/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pax-neoliberalia/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Pax Neoliberalia"
+    },
+    {
+     "@language": "en",
+     "@value": "Pax Neoliberalia"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Analyse de la mondialisation néolibérale comme réorganisation — et non pacification — de la violence, produisant une division sexuelle et internationale du travail entre « hommes en armes » et « femmes de service »."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/pax-neoliberalia/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Pédagogie de la cruauté"
+    },
+    {
+     "@language": "en",
+     "@value": "Pedagogy of cruelty"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Ensemble des dispositifs sociaux, médiatiques et institutionnels qui enseignent l'insensibilité à la souffrance d'autrui et transforment le vivant en chose."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "pedagogía de la crueldad"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/regime-livestream/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mandat-de-masculinite/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/politiques-post-mortem/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Politiques post-mortem"
+    },
+    {
+     "@language": "en",
+     "@value": "Postmortem / transmortem politics"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Méthodologie politique du deuil : refuser que les corps des victimes soient effacés ou trivialisés, et transformer la mort infligée en interruption publique de l'anesthésie sociale."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/politiques-post-mortem/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "políticas postmortem"
+    },
+    {
+     "@language": "fr",
+     "@value": "politiques trans-mortem"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminisme/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/regime-livestream/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Régime livestream"
+    },
+    {
+     "@language": "en",
+     "@value": "Livestream regime"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Gouvernement des émotions par la viralisation des contenus, qui maintient les publics entre la terreur et la consommation de la beauté, et fait des interfaces la nouvelle école de la cruauté."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/regime-livestream/",
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/pedagogie-de-la-cruaute/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necromasculinite/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/fratria-masculina/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-empowerment/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Reproduction sociale"
+    },
+    {
+     "@language": "en",
+     "@value": "Social reproduction"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Ensemble des activités — gestation, soin, alimentation, entretien, éducation, travail affectif — qui produisent et renouvellent quotidiennement et générationnellement la force de travail, majoritairement gratuites ou sous-payées."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/reproduction-sociale/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/corps-pour-le-capital/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/controle-coercitif/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mort-lente/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/sujet-endriago/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Sujet endriago"
+    },
+    {
+     "@language": "en",
+     "@value": "Endriago subject"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Acteur de l'économie gore : individu précarisé qui, faute de moyens légaux d'accès au statut promis par la société de consommation, convertit sa capacité de destruction en capital et en pouvoir."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/sujet-endriago/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "sujeto endriago"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-gore/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necro-empowerment/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/micro-souverain/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Transféminicide"
+    },
+    {
+     "@language": "en",
+     "@value": "Transfemicide"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Meurtre d'une femme trans ou travestie en raison de son identité de genre, dans un contexte de précarité, de criminalisation et d'impunité structurelles."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "transfeminicidio"
+    },
+    {
+     "@language": "fr",
+     "@value": "travesticidio"
+    }
+   ],
+   "skos:broader": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/homonationalisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/politiques-post-mortem/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminisme/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Transféminisme"
+    },
+    {
+     "@language": "en",
+     "@value": "Transfeminism"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Chez Valencia, non pas une politique d'identité visant l'inclusion institutionnelle des personnes trans, mais une épistémologie : une théorie de la connaissance et du pouvoir qui tient la binarisation des corps pour un acte de violence fondateur."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminisme/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/politiques-post-mortem/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/feminisme-decolonial/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/transfeminicide/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/contre-pedagogie/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/vie-nue/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Vie nue"
+    },
+    {
+     "@language": "en",
+     "@value": "Bare life"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Vie dépouillée de sa qualification politique, exposée sans médiation au pouvoir souverain : une existence que l'on peut supprimer sans que cela constitue un meurtre."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/vie-nue/",
+   "skos:altLabel": [
+    {
+     "@language": "fr",
+     "@value": "nuda vita"
+    },
+    {
+     "@language": "fr",
+     "@value": "homo sacer"
+    }
+   ],
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/necropolitique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/abandon-police/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q1620501"
+   }
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Violence lente"
+    },
+    {
+     "@language": "en",
+     "@value": "Slow violence"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Violence graduelle, dispersée et hors de vue, dont les effets se déploient sur des décennies et qui n'est généralement pas reconnue comme violence : contamination, déforestation, réchauffement, résidus toxiques."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mort-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/extractivisme/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/monde-de-mort/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/debilitation/#concept"
+    }
+   ]
+  },
+  {
+   "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-structurelle/#concept",
+   "@type": "skos:Concept",
+   "skos:prefLabel": [
+    {
+     "@language": "fr",
+     "@value": "Violence structurelle"
+    },
+    {
+     "@language": "en",
+     "@value": "Structural violence"
+    }
+   ],
+   "skos:definition": {
+    "@language": "fr",
+    "@value": "Violence sans auteur identifiable, inscrite dans l'organisation sociale, définie comme l'écart entre le potentiel et le réel : entre ce qui aurait pu être et ce qui est."
+   },
+   "skos:inScheme": {
+    "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/#scheme"
+   },
+   "foaf:page": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-structurelle/",
+   "skos:related": [
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/violence-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/mort-lente/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/injustice-epistemique/#concept"
+    },
+    {
+     "@id": "https://ouaisfieu.github.io/necropatriarcat/notions/capitalisme-racial/#concept"
+    }
+   ],
+   "skos:closeMatch": {
+    "@id": "https://www.wikidata.org/wiki/Q1266338"
+   }
+  }
+ ]
+}

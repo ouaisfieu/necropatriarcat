@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+  <title>Nécropatriarcat — atlas critique</title>
+  <subtitle>Encyclopédie critique du nécropatriarcat : généalogie du concept (Mbembe, Valencia, Segato), mécanismes du capitalisme gore, pédagogie de la cruauté, féminicides et transféminicides, débilitation, vio</subtitle>
+  <link href="https://ouaisfieu.github.io/necropatriarcat/" rel="alternate"/>
+  <link href="https://ouaisfieu.github.io/necropatriarcat/feed.xml" rel="self"/>
+  <id>https://ouaisfieu.github.io/necropatriarcat/</id>
+  <updated>2026-09-19T14:20:43Z</updated>
+  <rights>CC BY-SA 4.0</rights>
+  <entry>
+    <title type="text">Nécropatriarcat : ce que le mot nomme</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/necropatriarcat-definition/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/necropatriarcat-definition/</id>
+    <updated>2026-09-19T09:00:00Z</updated>
+    <published>2026-09-19T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Définition, généalogie et portée du concept forgé par Sayak Valencia : le privilège masculin d&#x27;exercer, pour son propre compte, les techniques de la nécropolitique.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">De la biopolitique à la nécropolitique</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/biopolitique-necropolitique/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/biopolitique-necropolitique/</id>
+    <updated>2026-09-18T09:00:00Z</updated>
+    <published>2026-09-18T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Comment le pouvoir est passé de « faire vivre et laisser mourir » à l&#x27;administration directe de la mort — et pourquoi le cadre de Foucault ne suffisait plus.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Le capitalisme gore : quand le corps devient la marchandise</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/capitalisme-gore/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/capitalisme-gore/</id>
+    <updated>2026-09-18T09:00:00Z</updated>
+    <published>2026-09-18T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Sayak Valencia décrit une économie où l&#x27;étape de la production disparaît : le corps mutilé, séquestré, tué devient directement la marchandise. Analyse d&#x27;un modèle d&#x27;affaires.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Le micro-souverain : anatomie d&#x27;une masculinité sans ressources</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/micro-souverain/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/micro-souverain/</id>
+    <updated>2026-09-18T09:00:00Z</updated>
+    <published>2026-09-18T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Comment le patriarcat délègue à chaque homme une souveraineté de poche : le droit d&#x27;exercer, dans son périmètre, les techniques de la nécropolitique.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Le féminicide comme langage : écrire sur les corps</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/feminicide-langage/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/feminicide-langage/</id>
+    <updated>2026-09-17T09:00:00Z</updated>
+    <published>2026-09-17T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Pourquoi les corps des victimes portent des marques qui ne servent pas à tuer : le féminicide systémique est un acte de communication entre hommes, et un instrument de gouvernement du territoire.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">La pédagogie de la cruauté : fabriquer l&#x27;insensibilité</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/pedagogie-de-la-cruaute/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/pedagogie-de-la-cruaute/</id>
+    <updated>2026-09-17T09:00:00Z</updated>
+    <published>2026-09-17T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Rita Segato décrit l&#x27;entraînement social qui rend une population capable de supporter l&#x27;horreur : la chosification de la vie, condition de l&#x27;entreprise prédatrice.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Corps pour le capital : buchonas, maquiladoras, industrie du sexe</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/corps-pour-le-capital/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/corps-pour-le-capital/</id>
+    <updated>2026-09-16T09:00:00Z</updated>
+    <published>2026-09-16T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Du corps chirurgicalement refait de la compagne de narcotrafiquant à l&#x27;ouvrière de zone franche et à la femme prostituée : trois régimes d&#x27;un même statut de marchandise.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Débiliter plutôt que tuer</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/debilitation-violence-lente/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/debilitation-violence-lente/</id>
+    <updated>2026-09-16T09:00:00Z</updated>
+    <published>2026-09-16T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Jasbir Puar, Lauren Berlant et Rob Nixon décrivent les violences qui ne produisent pas d&#x27;événement : le droit de mutiler, la mort lente, la violence lente.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Ciudad Juárez</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/ciudad-juarez/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/ciudad-juarez/</id>
+    <updated>2026-09-16T09:00:00Z</updated>
+    <published>2026-09-16T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">La ville où le mot « féminicide » est devenu une catégorie politique, et où s&#x27;est écrite l&#x27;analyse du corps comme langage territorial.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Culiacán, Sinaloa : l&#x27;économie des corps parés</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/sinaloa-buchonas/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/sinaloa-buchonas/</id>
+    <updated>2026-09-16T09:00:00Z</updated>
+    <published>2026-09-16T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Comment la narcoculture produit une esthétique corporelle normée, et ce que ce luxe apparent dissimule de contrainte.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">L&#x27;État, l&#x27;impunité et le droit</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/etat-impunite-droit/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/etat-impunite-droit/</id>
+    <updated>2026-09-15T09:00:00Z</updated>
+    <published>2026-09-15T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">De l&#x27;arrêt Campo Algodonero (2009) à la loi belge Stop féminicide (2023) et à la directive européenne 2024/1385 : ce que le droit peut nommer, et ce qu&#x27;il ne peut pas atteindre.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">L&#x27;injustice épistémique : détruire la crédibilité avant les corps</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/injustice-epistemique/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/injustice-epistemique/</id>
+    <updated>2026-09-15T09:00:00Z</updated>
+    <published>2026-09-15T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Miranda Fricker, José Medina, Gayatri Spivak : comment le refus d&#x27;accorder du crédit à une parole prépare et prolonge la violence physique.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Campo Algodonero c. Mexique</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/campo-algodonero/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/campo-algodonero/</id>
+    <updated>2026-09-15T09:00:00Z</updated>
+    <published>2026-09-15T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Le premier arrêt international condamnant un État pour son inaction face à un schéma systématique de féminicides.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Belgique : la loi Stop féminicide</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/loi-stop-feminicide-belgique/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/loi-stop-feminicide-belgique/</id>
+    <updated>2026-09-15T09:00:00Z</updated>
+    <published>2026-09-15T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">La première loi-cadre européenne sur les féminicides : ce qu&#x27;elle nomme, ce qu&#x27;elle a produit, et ce qu&#x27;elle n&#x27;atteint pas.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Écocide et féminicide : la même grammaire</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/ecocide-extractivisme/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/ecocide-extractivisme/</id>
+    <updated>2026-09-14T09:00:00Z</updated>
+    <published>2026-09-14T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">L&#x27;extractivisme traite la terre comme un objet inerte et inépuisable, exactement comme le nécropatriarcat traite les corps. Défendre un territoire et défendre un corps relèvent d&#x27;un même combat — et exposent aux mêmes représailles.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Le foyer comme état d&#x27;exception</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/reproduction-sociale/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/reproduction-sociale/</id>
+    <updated>2026-09-14T09:00:00Z</updated>
+    <published>2026-09-14T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">La reproduction sociale — gestation, soin, entretien, éducation — n&#x27;est pas seulement exploitée : elle est le lieu où s&#x27;exerce une souveraineté domestique que rien ne limite.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Brésil : dix-huit ans en tête du classement mondial</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/brasil-transfeminicides/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/brasil-transfeminicides/</id>
+    <updated>2026-09-14T09:00:00Z</updated>
+    <published>2026-09-14T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Le pays qui concentre 30 % des meurtres de personnes trans recensés dans le monde, année après année.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Vicky Hernández c. Honduras</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/vicky-hernandez-honduras/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/vicky-hernandez-honduras/</id>
+    <updated>2026-09-14T09:00:00Z</updated>
+    <published>2026-09-14T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Le premier arrêt international déclarant un État responsable du meurtre d&#x27;une femme trans.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Contre-pédagogies : déserter le pacte, politiser les mortes</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/contre-pedagogies/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/contre-pedagogies/</id>
+    <updated>2026-09-13T09:00:00Z</updated>
+    <published>2026-09-13T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Contre-pédagogies de la cruauté, politiques post-mortem, transféminisme comme épistémologie, réseaux de soin autonomes : l&#x27;inventaire des stratégies effectivement mises en œuvre.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Le régime livestream : les écrans comme école</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/dossiers/regime-livestream/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/dossiers/regime-livestream/</id>
+    <updated>2026-09-13T09:00:00Z</updated>
+    <published>2026-09-13T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Dossiers"/>
+    <summary type="text">Depuis 2024, Sayak Valencia décrit le déménagement de la pédagogie de la cruauté vers les interfaces : gouvernement des émotions, gentrification émotionnelle, gamification, manosphère.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Agua Zarca : l&#x27;assassinat de Berta Cáceres</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/berta-caceres-agua-zarca/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/berta-caceres-agua-zarca/</id>
+    <updated>2026-09-13T09:00:00Z</updated>
+    <published>2026-09-13T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Le circuit complet : un barrage, une militarisation, une opposition indigène, une exécution.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Marielle Franco et les milices de Rio</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/marielle-franco/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/marielle-franco/</id>
+    <updated>2026-09-13T09:00:00Z</updated>
+    <published>2026-09-13T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Quand la souveraineté privée armée est exercée par d&#x27;anciens agents de l&#x27;État.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Le droit de mutiler</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/gaza-droit-de-mutiler/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/gaza-droit-de-mutiler/</id>
+    <updated>2026-09-12T09:00:00Z</updated>
+    <published>2026-09-12T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">L&#x27;analyse de Jasbir Puar sur la production délibérée de blessures permanentes comme technique de gouvernement — et les discussions qu&#x27;elle a suscitées.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Jennifer Laude et la « trans panic defense »</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/jennifer-laude/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/jennifer-laude/</id>
+    <updated>2026-09-12T09:00:00Z</updated>
+    <published>2026-09-12T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Le meurtre d&#x27;une femme trans par un militaire états-unien, la défense par la « panique », et l&#x27;impunité impériale.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Cancer Alley</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/cancer-alley/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/cancer-alley/</id>
+    <updated>2026-09-11T09:00:00Z</updated>
+    <published>2026-09-11T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Un corridor industriel installé sur d&#x27;anciennes plantations, où l&#x27;exposition chimique produit un différentiel de mortalité mesurable.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Travail du sexe en Europe : l&#x27;abandon policé</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/travail-du-sexe-europe/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/travail-du-sexe-europe/</id>
+    <updated>2026-09-11T09:00:00Z</updated>
+    <published>2026-09-11T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Quel que soit le régime légal — criminalisation, modèle suédois, régulation —, les polices européennes adoptent les mêmes trois conduites face aux victimes.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Guatemala : le viol comme arme de guerre</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/guatemala-guerre/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/guatemala-guerre/</id>
+    <updated>2026-09-10T09:00:00Z</updated>
+    <published>2026-09-10T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Là où Rita Segato a compris que la violence sexuelle de masse n&#x27;est pas un dommage collatéral mais une stratégie.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">De l&#x27;ajustement structurel à la dette de voyage</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/nigeria-traite-europe/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/nigeria-traite-europe/</id>
+    <updated>2026-09-10T09:00:00Z</updated>
+    <published>2026-09-10T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Comment une politique macroéconomique, une frontière et une dette privée produisent ensemble une chaîne d&#x27;exploitation.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">L&#x27;asile fondé sur le genre</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/asile-genre/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/asile-genre/</id>
+    <updated>2026-09-09T09:00:00Z</updated>
+    <published>2026-09-09T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Comment les critères de crédibilité transforment les marques du traumatisme en preuves du mensonge.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+  <entry>
+    <title type="text">Ni Una Menos</title>
+    <link href="https://ouaisfieu.github.io/necropatriarcat/cas/ni-una-menos/"/>
+    <id>https://ouaisfieu.github.io/necropatriarcat/cas/ni-una-menos/</id>
+    <updated>2026-09-09T09:00:00Z</updated>
+    <published>2026-09-09T09:00:00Z</published>
+    <author><name>Claude (Opus 5)</name></author>
+    <category term="Cas"/>
+    <summary type="text">Le mouvement qui a inventé la grève féministe, relié violence de genre et dette, et imposé la comptabilité autonome des mortes.</summary>
+    <rights>CC BY-SA 4.0</rights>
+  </entry>
+</feed>

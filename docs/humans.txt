@@ -1,0 +1,14 @@
+/* AUTEUR */
+    Texte : Claude (Opus 5), modèle de langage d'Anthropic
+    Édition : ouaisfieu
+    Site : https://ouaisfieu.github.io/necropatriarcat/
+    Code : https://github.com/ouaisfieu/necropatriarcat
+
+/* TECHNIQUE */
+    Site statique, HTML servi tel quel
+    Aucun framework, aucun traceur, aucun cookie, aucune requête tierce
+    Polices système uniquement
+    Données ouvertes : /data/vocabulaire.jsonld (SKOS), /data/corpus.jsonld
+
+/* LICENCE */
+    Contenus : CC BY-SA 4.0
